@@ -1,0 +1,1778 @@
+[
+    {
+        "termin": "2026-02-23",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-02-23",
+        "dzien_godzina": "Pn 11:30 - 13:00 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 107"
+    },
+    {
+        "termin": "2026-02-23",
+        "dzien_godzina": "Pn 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-02-23",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-02-24",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-02-24",
+        "dzien_godzina": "Wt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.B 251"
+    },
+    {
+        "termin": "2026-02-24",
+        "dzien_godzina": "Wt 13:15 - 14:45 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": ""
+    },
+    {
+        "termin": "2026-02-25",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-02-25",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-02-26",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-02-26",
+        "dzien_godzina": "Cz 11:30 - 13:00 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-02-26",
+        "dzien_godzina": "Cz 16:45 - 18:15 (2g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-02-27",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-02-27",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-02-27",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-02",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-02",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-03",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-03",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-04",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-04",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-04",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-05",
+        "dzien_godzina": "Cz 08:00 - 09:30 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 614"
+    },
+    {
+        "termin": "2026-03-05",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-05",
+        "dzien_godzina": "Cz 11:30 - 14:45 (4g.)",
+        "przedmiot": "",
+        "typ": "rezerwacja",
+        "nauczyciel": "",
+        "sala": ""
+    },
+    {
+        "termin": "2026-03-06",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-03-06",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-06",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-06",
+        "dzien_godzina": "Pt 13:15 - 14:45 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 116 lab.Win8.1, Office21"
+    },
+    {
+        "termin": "2026-03-09",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-09",
+        "dzien_godzina": "Pn 11:30 - 13:00 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 107"
+    },
+    {
+        "termin": "2026-03-09",
+        "dzien_godzina": "Pn 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-03-09",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-10",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-10",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-10",
+        "dzien_godzina": "Wt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.B 251"
+    },
+    {
+        "termin": "2026-03-10",
+        "dzien_godzina": "Wt 13:15 - 14:45 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": ""
+    },
+    {
+        "termin": "2026-03-11",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-11",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-12",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-12",
+        "dzien_godzina": "Cz 11:30 - 13:00 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-12",
+        "dzien_godzina": "Cz 16:45 - 18:15 (2g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-03-13",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-03-13",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-13",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-16",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-16",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-17",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-17",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-18",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-18",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-18",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-19",
+        "dzien_godzina": "Cz 08:00 - 09:30 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 614"
+    },
+    {
+        "termin": "2026-03-19",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-19",
+        "dzien_godzina": "Cz 13:15 - 14:45 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 107"
+    },
+    {
+        "termin": "2026-03-20",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-03-20",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-20",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-23",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-23",
+        "dzien_godzina": "Pn 11:30 - 13:00 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 107"
+    },
+    {
+        "termin": "2026-03-23",
+        "dzien_godzina": "Pn 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-03-23",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-24",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-24",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-24",
+        "dzien_godzina": "Wt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.B 251"
+    },
+    {
+        "termin": "2026-03-25",
+        "dzien_godzina": "Śr 09:45 - 13:00 (4g.)",
+        "przedmiot": "",
+        "typ": "rezerwacja",
+        "nauczyciel": "",
+        "sala": ""
+    },
+    {
+        "termin": "2026-03-25",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-25",
+        "dzien_godzina": "Śr 15:00 - 16:30 (2g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-03-25",
+        "dzien_godzina": "Śr 16:45 - 18:15 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-26",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-26",
+        "dzien_godzina": "Cz 11:30 - 16:30 (6g.)",
+        "przedmiot": "",
+        "typ": "rezerwacja",
+        "nauczyciel": "",
+        "sala": ""
+    },
+    {
+        "termin": "2026-03-26",
+        "dzien_godzina": "Cz 16:45 - 18:15 (2g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-03-27",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-03-27",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-27",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-30",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-30",
+        "dzien_godzina": "Pn 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-03-30",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-03-31",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-03-31",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-03-31",
+        "dzien_godzina": "Wt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-04-01",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-01",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-01",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-08",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-08",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-09",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-09",
+        "dzien_godzina": "Cz 11:30 - 13:00 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-09",
+        "dzien_godzina": "Cz 16:45 - 18:15 (2g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-04-10",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.C sala E"
+    },
+    {
+        "termin": "2026-04-10",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-10",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-04-13",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-13",
+        "dzien_godzina": "Pn 11:30 - 13:00 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": ""
+    },
+    {
+        "termin": "2026-04-13",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": ""
+    },
+    {
+        "termin": "2026-04-14",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-04-14",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-15",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-15",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-15",
+        "dzien_godzina": "Śr 11:30 - 13:00 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Bibl. 443"
+    },
+    {
+        "termin": "2026-04-15",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-15",
+        "dzien_godzina": "Śr 15:00 - 17:30 (3g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.F 107"
+    },
+    {
+        "termin": "2026-04-16",
+        "dzien_godzina": "Cz 08:00 - 09:30 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 614"
+    },
+    {
+        "termin": "2026-04-16",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-16",
+        "dzien_godzina": "Cz 13:15 - 14:45 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": ""
+    },
+    {
+        "termin": "2026-04-17",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.A 014 lab. Win8.1 Office21"
+    },
+    {
+        "termin": "2026-04-17",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-17",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-04-20",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-20",
+        "dzien_godzina": "Pn 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-04-20",
+        "dzien_godzina": "Pn 15:00 - 16:30 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 122 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-20",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-21",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-04-21",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-21",
+        "dzien_godzina": "Wt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.B 251"
+    },
+    {
+        "termin": "2026-04-21",
+        "dzien_godzina": "Wt 13:15 - 14:45 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": ""
+    },
+    {
+        "termin": "2026-04-22",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-22",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-22",
+        "dzien_godzina": "Śr 16:45 - 19:15 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium zdalne",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": ""
+    },
+    {
+        "termin": "2026-04-23",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-23",
+        "dzien_godzina": "Cz 11:30 - 13:00 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": ""
+    },
+    {
+        "termin": "2026-04-23",
+        "dzien_godzina": "Cz 16:45 - 18:15 (2g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-04-24",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-04-24",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-24",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-04-27",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-27",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-28",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-04-28",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-29",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-29",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-29",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-04-30",
+        "dzien_godzina": "Cz 08:00 - 09:30 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": ""
+    },
+    {
+        "termin": "2026-04-30",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-04-30",
+        "dzien_godzina": "Cz 13:15 - 14:45 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": ""
+    },
+    {
+        "termin": "2026-05-04",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-04",
+        "dzien_godzina": "Pn 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-05-04",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-05",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-05-05",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-05",
+        "dzien_godzina": "Wt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.B 251"
+    },
+    {
+        "termin": "2026-05-06",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-06",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-06",
+        "dzien_godzina": "Śr 16:45 - 18:15 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium zdalne",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": ""
+    },
+    {
+        "termin": "2026-05-07",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-07",
+        "dzien_godzina": "Cz 11:30 - 13:00 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": ""
+    },
+    {
+        "termin": "2026-05-07",
+        "dzien_godzina": "Cz 16:45 - 18:15 (2g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-05-08",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": ""
+    },
+    {
+        "termin": "2026-05-08",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-08",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": ""
+    },
+    {
+        "termin": "2026-05-11",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-11",
+        "dzien_godzina": "Pn 11:30 - 13:00 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 109"
+    },
+    {
+        "termin": "2026-05-11",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-12",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-05-12",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-13",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-13",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-13",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-14",
+        "dzien_godzina": "Cz 08:00 - 09:30 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 614"
+    },
+    {
+        "termin": "2026-05-14",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-14",
+        "dzien_godzina": "Cz 13:15 - 14:45 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 107"
+    },
+    {
+        "termin": "2026-05-15",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-05-15",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-15",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-05-18",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-18",
+        "dzien_godzina": "Pn 11:30 - 13:00 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 416"
+    },
+    {
+        "termin": "2026-05-18",
+        "dzien_godzina": "Pn 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-05-18",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-19",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-05-19",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-19",
+        "dzien_godzina": "Wt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": ""
+    },
+    {
+        "termin": "2026-05-20",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-20",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-21",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-21",
+        "dzien_godzina": "Cz 11:30 - 13:00 (2g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-21",
+        "dzien_godzina": "Cz 16:45 - 17:30 (1g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "wykład",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-05-22",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 515"
+    },
+    {
+        "termin": "2026-05-22",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-22",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-05-25",
+        "dzien_godzina": "Pn 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 104"
+    },
+    {
+        "termin": "2026-05-25",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-25",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-26",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-05-26",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-26",
+        "dzien_godzina": "Wt 19:15 - 20:00 (1g.)",
+        "przedmiot": "WEB Mining",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Katarzyna Wójcik",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-27",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-27",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-27",
+        "dzien_godzina": "Śr 13:15 - 14:45 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-05-29",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": ""
+    },
+    {
+        "termin": "2026-05-29",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-05-29",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-05-29",
+        "dzien_godzina": "Pt 15:00 - 16:30 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-06-01",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-01",
+        "dzien_godzina": "Pn 11:30 - 13:00 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 613"
+    },
+    {
+        "termin": "2026-06-01",
+        "dzien_godzina": "Pn 13:15 - 14:00 (1g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "wykład",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.F 516"
+    },
+    {
+        "termin": "2026-06-01",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-06-02",
+        "dzien_godzina": "Wt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-06-02",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-02",
+        "dzien_godzina": "Wt 11:30 - 12:15 (1g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": ""
+    },
+    {
+        "termin": "2026-06-03",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 102"
+    },
+    {
+        "termin": "2026-06-03",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-03",
+        "dzien_godzina": "Śr 13:15 - 14:00 (1g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-06-08",
+        "dzien_godzina": "Pn 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-08",
+        "dzien_godzina": "Pn 15:00 - 16:30 (2g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "laboratorium",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.B 054 (KSB)"
+    },
+    {
+        "termin": "2026-06-08",
+        "dzien_godzina": "Pn 16:45 - 17:30 (1g.)",
+        "przedmiot": "Ekonometryczna analiza danych",
+        "typ": "zaliczenie",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.B 054 (KSB)"
+    },
+    {
+        "termin": "2026-06-08",
+        "dzien_godzina": "Pn 17:30 - 20:00 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "laboratorium",
+        "nauczyciel": "mgr Łukasz Cholewa",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-06-09",
+        "dzien_godzina": "Wt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-10",
+        "dzien_godzina": "Śr 08:00 - 09:30 (2g.)",
+        "przedmiot": "Sieci neuronowe i uczenie maszynowe",
+        "typ": "laboratorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-06-10",
+        "dzien_godzina": "Śr 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-11",
+        "dzien_godzina": "Cz 08:00 - 09:30 (2g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 614"
+    },
+    {
+        "termin": "2026-06-11",
+        "dzien_godzina": "Cz 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-11",
+        "dzien_godzina": "Cz 13:15 - 14:00 (1g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "wykład",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "Paw.F 107"
+    },
+    {
+        "termin": "2026-06-12",
+        "dzien_godzina": "Pt 08:00 - 09:30 (2g.)",
+        "przedmiot": "Metody numeryczne",
+        "typ": "konwersatorium do wyboru",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.A 09 lab. Win8.1, Office21"
+    },
+    {
+        "termin": "2026-06-12",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "Język obcy",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "Wybierz swoją grupę językową"
+    },
+    {
+        "termin": "2026-06-12",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "Analiza i raportowanie danych w Power B",
+        "typ": "konwersatorium",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 301a lab.Win10, Office21"
+    },
+    {
+        "termin": "2026-06-12",
+        "dzien_godzina": "Pt 13:15 - 14:00 (1g.)",
+        "przedmiot": "Podstawy zarządzania",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 614"
+    },
+    {
+        "termin": "2026-06-15",
+        "dzien_godzina": "Pn 08:00 - 17:30 (11g.)",
+        "przedmiot": "",
+        "typ": "rezerwacja",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "."
+    },
+    {
+        "termin": "2026-06-16",
+        "dzien_godzina": "Wt 08:00 - 17:30 (11g.)",
+        "przedmiot": "",
+        "typ": "rezerwacja",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "."
+    },
+    {
+        "termin": "2026-06-18",
+        "dzien_godzina": "Cz 11:30 - 13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "egzamin",
+        "nauczyciel": "prof. UEK dr hab. Justyna Wróblewska",
+        "sala": "Paw.A 09 lab. Win8.1, Office21"
+    },
+    {
+        "termin": "2026-06-19",
+        "dzien_godzina": "Pt 09:45 - 11:15 (2g.)",
+        "przedmiot": "",
+        "typ": "egzamin",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.C sala A"
+    },
+    {
+        "termin": "2026-06-19",
+        "dzien_godzina": "Pt 11:30 - 13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "egzamin",
+        "nauczyciel": "dr Sebastian Baran",
+        "sala": "Paw.A 116 lab.Win8.1, Office21, Paw.A 117 lab. Win10, Office21"
+    },
+    {
+        "termin": "2026-06-24",
+        "dzien_godzina": "Śr 09:45 - 12:15 (3g.)",
+        "przedmiot": "Nadzorowane uczenie statystyczne",
+        "typ": "egzamin",
+        "nauczyciel": "dr Mateusz Baryła",
+        "sala": "Paw.C sala E"
+    }
+]
